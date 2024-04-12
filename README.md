@@ -1,4 +1,5 @@
-![image](https://github.com/Siddhartha082/AWS_CICD_Part_2-CodePipeline-Final_Chapter/assets/110781138/06b4f526-7103-4788-9e4e-3c01ebcb4ed7)# AWS Continuous Integration Demo
+
+# AWS Continuous Integration Demo
 
 ## Set Up GitHub Repository
 
@@ -358,6 +359,7 @@ In this final step, we'll trigger the CI process by making a change to our GitHu
 # 3rd stage – code-deploy – Failed
 
 ![image](https://github.com/Siddhartha082/AWS_CICD_Part_2-CodePipeline-Final_Chapter/assets/110781138/c80985e4-1413-475d-b89d-cf6788c9c3e9)
+
 
 # now check in Ubuntu Terminal Docker image is been Pulled + Docker image Running stage
 
