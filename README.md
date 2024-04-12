@@ -1,5 +1,5 @@
 
-# Note- Part 1 CI part 1 - https://github.com/Siddhartha082/AWS_CICD_Part_1_CI_Pipeline_End_to_End
+# Note- Part 1 CI  - https://github.com/Siddhartha082/AWS_CICD_Part_1_CI_Pipeline_End_to_End
 
 # AWS Continuous Integration 
 
